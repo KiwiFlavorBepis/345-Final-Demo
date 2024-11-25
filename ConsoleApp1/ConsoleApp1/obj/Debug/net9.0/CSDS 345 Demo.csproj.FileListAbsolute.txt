@@ -1,0 +1,14 @@
+C:\Users\kiera\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net9.0\CSDS 345 Demo.exe
+C:\Users\kiera\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net9.0\CSDS 345 Demo.deps.json
+C:\Users\kiera\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net9.0\CSDS 345 Demo.runtimeconfig.json
+C:\Users\kiera\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net9.0\CSDS 345 Demo.dll
+C:\Users\kiera\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net9.0\CSDS 345 Demo.pdb
+C:\Users\kiera\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net9.0\CSDS 345 Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kiera\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net9.0\CSDS 345 Demo.AssemblyInfoInputs.cache
+C:\Users\kiera\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net9.0\CSDS 345 Demo.AssemblyInfo.cs
+C:\Users\kiera\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net9.0\CSDS 345 Demo.csproj.CoreCompileInputs.cache
+C:\Users\kiera\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net9.0\CSDS 345 Demo.dll
+C:\Users\kiera\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net9.0\refint\CSDS 345 Demo.dll
+C:\Users\kiera\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net9.0\CSDS 345 Demo.pdb
+C:\Users\kiera\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net9.0\CSDS 345 Demo.genruntimeconfig.cache
+C:\Users\kiera\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net9.0\ref\CSDS 345 Demo.dll
